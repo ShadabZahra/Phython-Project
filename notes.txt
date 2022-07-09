@@ -1,0 +1,2 @@
+tab is for auto complete
+mkdir to make folder .. to go baack 
